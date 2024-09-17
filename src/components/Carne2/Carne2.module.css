@@ -1,0 +1,61 @@
+.container{
+    display: flex;
+    background-color: white;
+    width: 400px;
+    height: 150px;
+    border-radius: 5px;
+    box-shadow: 10px;
+    margin-top: 50px;
+}
+
+.foto{
+    width: 120px;
+    height: 120px;
+}
+
+.titulo{
+    margin: 0;
+}
+
+.kilopreco{
+    color: gray;
+    margin: 0;
+    margin-top: 3px;
+    font-size: 12px;
+}
+
+.textos{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.precoSau{
+    color: #6CC51D;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.precoCli{
+    color: #FF0000;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.btCompra{
+    margin-left: 200px;
+    width: 40px;
+}
+
+.textoClientePromo{
+    background-color: red;
+    color: white;
+    width: 50px;
+    border-radius: 5px;
+}
+
+.textoClienteSaudavel{
+    background-color: #008000;
+    color: white;
+    width: 70px;
+    border-radius: 5px;
+}
